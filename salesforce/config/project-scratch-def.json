@@ -1,0 +1,15 @@
+{
+  "orgName": "NAV Salesforce",
+  "adminEmail": "admin.email@nav.no.test",
+  "edition": "Enterprise",
+  "language": "en_US",
+  "features": [
+    "RecordTypes",
+    "ForceComPlatform"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}

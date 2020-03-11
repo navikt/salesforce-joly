@@ -1,0 +1,15 @@
+{
+	"packageDirectories": [
+		{
+			"path": "force-app",
+			"default": true,
+			"package": "salesforce-joly",
+			"versionNumber": "0.0.1.NEXT",
+			"dependencies": []
+		}
+	],
+	"namespace": "",
+	"sfdcLoginUrl": "https://login.salesforce.com",
+	"sourceApiVersion": "47.0",
+	"packageAliases": {}
+}

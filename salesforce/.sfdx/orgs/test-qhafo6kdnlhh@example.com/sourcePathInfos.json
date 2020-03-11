@@ -1,0 +1,152 @@
+[
+    [
+        "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583256579031,
+            "changeTime": 1583256579031,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/michael/Code/crm/salesforce-joly/salesforce",
+        {
+            "sourcePath": "/Users/michael/Code/crm/salesforce-joly/salesforce",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1583256568871,
+            "changeTime": 1583256568871,
+            "contentHash": "2371b19e3d1e39fb8c1500eeb348ec4baa51891e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/objects/Activity/fields/Warnings__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/objects/Activity/fields/Warnings__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 321,
+            "modifiedTime": 1583256579032,
+            "changeTime": 1583256579032,
+            "contentHash": "e2a75b5b20ecad0acb4f5a60c6f6797506a819db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20070,
+            "modifiedTime": 1583256579047,
+            "changeTime": 1583256579047,
+            "contentHash": "1dc2a2263b6e5b1c7b873b09b1bc852c87cd0f29",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/objects/Activity/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/objects/Activity/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583256579032,
+            "changeTime": 1583256579032,
+            "contentHash": "921c27b88913eeafe01cab08254cfff1e2ca0675",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/objects/Activity",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/objects/Activity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583256579031,
+            "changeTime": 1583256579031,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583256579031,
+            "changeTime": 1583256579031,
+            "contentHash": "81c0d915fa6d82fd30661c5e66e204cea52bb2b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1583256579040,
+            "changeTime": 1583256579040,
+            "contentHash": "0fc7aeead397cd3f48cce3cb2def0f2aa60e33f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583256579031,
+            "changeTime": 1583256579031,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael/Code/crm/salesforce-joly/salesforce/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583256579047,
+            "changeTime": 1583256579047,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ]
+]
